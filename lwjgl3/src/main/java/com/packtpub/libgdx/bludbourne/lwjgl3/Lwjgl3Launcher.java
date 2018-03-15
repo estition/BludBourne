@@ -1,6 +1,5 @@
 package com.packtpub.libgdx.bludbourne.lwjgl3;
 
-import com.badlogic.gdx.Files.FileType;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
 import com.packtpub.libgdx.bludbourne.BludBourne;
